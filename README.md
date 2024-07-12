@@ -13,7 +13,7 @@ WikiNewsMax, our improved version of WikiNews (CITE), can be found here in [Refe
 Our new Wild2MaxDiacs dataset can be found publically here in [all_annotation_interfaces_corrected_full_contexts](https://docs.google.com/spreadsheets/d/11nVDzhB30__sqsKQlLo0U9N8KDHmn69C_4MSec7MhnA/edit?gid=1644748837#gid=1644748837).
 
 ## Code
-
+TODO: change wording
 Our improved version of cameltools is accessible here in [ct_wilddiac](https://github.com/CAMeL-Lab/ct_wilddiac).
 
 You can find all the helping scripts used to generate all the numbers in the paper here in [wild_diacritics_utils](https://github.com/CAMeL-Lab/wild_diacritics_utils) [TODO: MAKE PUBLIC].
