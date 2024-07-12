@@ -10,7 +10,7 @@ TODO: Add links to data releases
 
 ## Code
 
-TODO: Add and explain code directories
+Our improved version of cameltools is accessible here in [ct_wilddiac](https://github.com/CAMeL-Lab/ct_wilddiac).
 
 ## License
 
