@@ -22,7 +22,7 @@ This repo is available under the MIT license. See the [LICENSE file](/LICENSE) f
 
 ## Citing
 
-If you find any of our work useful, please cite [our paper](https://arxiv.org/pdf/2103.06678.pdf):
+If you find any of our work useful, please cite [our paper](https://arxiv.org/abs/2406.05760):
 ```bibtex
 @misc{elgamal2024arabicdiacriticswildexploiting,
       title={Arabic Diacritics in the Wild: Exploiting Opportunities for Improved Diacritization}, 
