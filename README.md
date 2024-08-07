@@ -18,8 +18,19 @@ TODO: evaluation scripts (Ossama)
 
 ## License
 
-TODO: Add license info and files
+This repo is available under the MIT license. See the [LICENSE file](/LICENSE) for more info.
 
 ## Citing
 
-TODO: Add Bibtex info for citation.
+If you find any of our work useful, please cite [our paper](https://arxiv.org/abs/2406.05760):
+```bibtex
+@misc{elgamal2024arabicdiacriticswildexploiting,
+      title={Arabic Diacritics in the Wild: Exploiting Opportunities for Improved Diacritization}, 
+      author={Salman Elgamal and Ossama Obeid and Tameem Kabbani and Go Inoue and Nizar Habash},
+      year={2024},
+      eprint={2406.05760},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2406.05760}, 
+}
+```
