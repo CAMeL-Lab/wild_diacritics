@@ -2,19 +2,32 @@
 
 ## About
 
-Wild Diacritics paper repo (WIP).
+This repo contains code and data relating to the
+['Arabic Diacritics in the Wild: Exploiting Opportunities for Improved Diacritization'](https://arxiv.org/abs/2406.05760#)
+paper published in the proceedings of
+[ACL 2024](https://2024.aclweb.org/).
 
 ## Data
 
-The files for the Wild2Max and WikiNewsMax datasets can all be found in the [data](./data) directory.
+The files for the Wild2Max and WikiNewsMax datasets can all be found in the
+[data](./data) directory.
+
+If you just need the datasets, you can find zipped versions
+of the datasets in the
+[releases page](https://github.com/CAMeL-Lab/wild_diacritics/releases).
 
 ## Code
 
-CAMeLtools fork with the Wild Diacritics edits outlined in the ACL'24 paper is accessible here in [ct_wilddiac](https://github.com/CAMeL-Lab/ct_wilddiac).
+You can find the helping scripts used to generate all the numbers in the
+paper in the [wilddiacs_utils](./code/wilddiacs_utils) directory.
 
-You can find all the helping scripts used to generate all the numbers in the paper here in the [wilddiacs_utils](./code/wilddiacs_utils) directory.
+You can find all the evaluation scripts relating to the
+'Exploiting Diacritics in the Wild' section of the paper in the
+[exploiting_wilddiacs](./code/exploiting_wilddiacs/) directory.
 
-TODO: evaluation scripts (Ossama)
+A fork of [CAMeL Tools](https://github.com/CAMeL-Lab/camel_tools)
+with the Wild Diacritics edits outlined in the paper can be found in the
+[ct_wilddiac repo](https://github.com/CAMeL-Lab/ct_wilddiac).
 
 ## License
 
